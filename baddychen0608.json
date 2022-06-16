@@ -14,7 +14,7 @@
 "spider":"https://zdhxjq.github.io/baddychen0608/baddychen0608.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"https://zdhxjq.github.io/baddychen0608/tv/lives.txt"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly96ZGh4anEuZ2l0aHViLmlvL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZXMudHh0="
 ]}]}],
 
 
